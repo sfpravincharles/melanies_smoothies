@@ -1,6 +1,6 @@
 requirements.txt
-snowflake-snowpark-python
-streamlit
+snowflake-snowpark-python=1.18.0
+streamlit=1.29.0
 #name: app_environment
 #channels:
 #  - snowflake
